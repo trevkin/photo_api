@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Authenticate.php" server="C:/wamp64/www/photo_app/" local="131824393124773804" remote="131824393120000000" />
+<file name="CheckForMaintenanceMode.php" server="C:/wamp64/www/photo_app/" local="131822957663801110" remote="131822957660000000" />
+<file name="EncryptCookies.php" server="C:/wamp64/www/photo_app/" local="131822957663801110" remote="131822957660000000" />
+<file name="RedirectIfAuthenticated.php" server="C:/wamp64/www/photo_app/" local="131822957663810807" remote="131822957660000000" />
+<file name="TrimStrings.php" server="C:/wamp64/www/photo_app/" local="131822957663810807" remote="131822957660000000" />
+<file name="TrustProxies.php" server="C:/wamp64/www/photo_app/" local="131822957663821036" remote="131822957660000000" />
+<file name="VerifyCsrfToken.php" server="C:/wamp64/www/photo_app/" local="131822957663810807" remote="131822957660000000" />
+</dwsync>
